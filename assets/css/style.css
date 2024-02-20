@@ -5,3 +5,11 @@ body {
 span {
     display: inline-block;
 }
+#icons{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 8%;
+  width: 80%;
+  height: auto;
+}
